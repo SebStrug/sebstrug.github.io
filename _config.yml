@@ -1,0 +1,33 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Seb Strug
+tagline:             Data Engineer / London.
+url:                 http://sebstrug.com
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              SebStrug
+  url:               https://www.sebstrug.com
+  email:             jami0821@gmail.com
+
+# Custom vars
+version:             1.0.0
+github:
+  repo:              https://github.com/sebstrug
+github:              sebstrug
+
+# Gems
+plugins:
+  # - jekyll-paginate
+  # - jekyll-gist

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Seb Strug</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-02-19T06:09:01+00:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>SebStrug</name>
+   <email>jami0821@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>How Far Can I Go?</title>
+   <link href="http://localhost:4000/2018/06/15/how-far-can-i-go/"/>
+   <updated>2018-06-15T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2018/06/15/how-far-can-i-go</id>
+   <content type="html">&lt;p&gt;Create a personalised map showing how far you can go for set distances of time using the Google API.&lt;/p&gt;
+
+&lt;p&gt;Built with Python, Shapely, and Google APIs.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/timetravel_map_primary.png&quot; alt=&quot;Personalised map of London&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Identifying Chinese Calligraphy with Neural Nets</title>
+   <link href="http://localhost:4000/2017/06/01/tensorflow-calligraphy/"/>
+   <updated>2017-06-01T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2017/06/01/tensorflow-calligraphy</id>
+   <content type="html">&lt;p&gt;Explored neural networks and their architectures to identify Chinese calligraphy,
+such as convolutional neural networks, generative adversarial networks, transfer learning.&lt;/p&gt;
+
+&lt;p&gt;Built using TensorFlow &amp;amp; TensorBoard.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/MLCalligraphy.gif&quot; alt=&quot;Chinese Calligraphy&quot; /&gt;
+T-SNE algorithm projecting the model’s representation of Chinese handwriting into 3D space.
+Each colour is a Chinese character written by different authors.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
